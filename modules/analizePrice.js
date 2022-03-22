@@ -1,18 +1,48 @@
 const getPercent = require('./getPercent');
+const fs = require('fs');
 
 let analizePrice = async (cryptoPrice) => {
 
-    let res = getPercent(0.55555 , 0.1)
-    console.log(res)
+    let res = [];
 
-    // cryptoPrice.forEach(el => {
+    cryptoPrice.forEach(el => {
 
-    //     if(el.bidPrice > el.askPrice) {
+        if(Number(el.bidPrice) > Number(el.askPrice)) {
 
-    //     } else if (el.askPrice > el.bidPrice) {
+            let price = getPercent(el.bidPrice, el.askPrice)
 
-    //     }
-    // });
+            obj = {
+                symbol: el.symbol,
+                direction: `BUY ${el.symbol}`,
+                gap: price.gap,
+                percent: price.percent,
+                bidPrice: +el.bidPrice,
+                askPrice: +el.askPrice,
+                bidQty: +el.bidQty,
+                askQty: +el.askQty
+            }
+
+            res.push(obj)
+        } else if (Number(el.askPrice) > Number(el.bidPrice)) {
+
+            let price = getPercent(el.askPrice, el.bidPrice)
+
+            obj = {
+                symbol: el.symbol,
+                direction: `SELL ${el.symbol}`,
+                gap: price.gap,
+                percent: price.percent,
+                bidPrice: +el.bidPrice,
+                askPrice: +el.askPrice,
+                bidQty: +el.bidQty,
+                askQty: +el.askQty
+            }
+
+            res.push(obj)
+        }
+    });
+
+    fs.writeFileSync( './data/cryptoAnalize.json', JSON.stringify(res))
 
 }
 
