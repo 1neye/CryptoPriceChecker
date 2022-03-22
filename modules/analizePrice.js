@@ -7,43 +7,44 @@ let analizePrice = async (cryptoPrice) => {
 
     cryptoPrice.forEach(el => {
 
-        if(Number(el.bidPrice) > Number(el.askPrice)) {
+        if (Number(el.bidPrice) > Number(el.askPrice)) {
 
             let price = getPercent(el.bidPrice, el.askPrice)
 
             obj = {
-                symbol: el.symbol,
-                direction: `BUY ${el.symbol}`,
+                direction: 'BUY',
                 gap: price.gap,
                 percent: price.percent,
-                bidPrice: +el.bidPrice,
-                askPrice: +el.askPrice,
-                bidQty: +el.bidQty,
-                askQty: +el.askQty
+                ...el
             }
 
-            res.push(obj)
+            if(price.percent) {
+                res.push(obj)
+            }
+
+
         } else if (Number(el.askPrice) > Number(el.bidPrice)) {
 
             let price = getPercent(el.askPrice, el.bidPrice)
 
             obj = {
-                symbol: el.symbol,
-                direction: `SELL ${el.symbol}`,
+                direction: 'SELL',
                 gap: price.gap,
                 percent: price.percent,
-                bidPrice: +el.bidPrice,
-                askPrice: +el.askPrice,
-                bidQty: +el.bidQty,
-                askQty: +el.askQty
+                ...el
             }
 
-            res.push(obj)
+            if(price.percent) {
+                res.push(obj)
+            }
+
+
         }
     });
 
-    fs.writeFileSync( './data/cryptoAnalize.json', JSON.stringify(res))
+    fs.writeFileSync('./data/cryptoAnalize.json', JSON.stringify(res))
 
+    return res
 }
 
 module.exports = analizePrice
