@@ -27,26 +27,26 @@ let start = async () => {
 
     let arr = JSON.parse(fs.readFileSync('./data/tradeTest.json', 'utf8'))
 
-    for(let i = 0; i < cryptoAnalize.length; i++ ) {
+    // for(let i = 0; i < cryptoAnalize.length; i++ ) {
 
-        let res = showBestTade(cryptoAnalize[i])
-        if(res.bestTrade != undefined) {
-            let d = []
-            d.push(cryptoAnalize[i])
-            d.push(res.bestTrade)
+    //     let res = showBestTade(cryptoAnalize[i])
+    //     if(res.bestTrade != undefined) {
+    //         let d = []
+    //         d.push(cryptoAnalize[i])
+    //         d.push(res.bestTrade)
 
-            arr.push(d)
-            fs.writeFileSync( './data/tradeTest.json', JSON.stringify(arr))
-        }
-    }
-
-    // for(let s = 0; s < arr.length; s++) {
-    //     let res = showBestTade(arr[s][arr[s].length - 1])
-    //     if(res.bestTrade != null) {
-    //         arr[s].push(res.bestTrade)
+    //         arr.push(d)
     //         fs.writeFileSync( './data/tradeTest.json', JSON.stringify(arr))
     //     }
     // }
+
+    for(let s = 0; s < arr.length; s++) {
+        let res = showBestTade(arr[s][arr[s].length - 1])
+        if(res.bestTrade != null) {
+            arr[s].push(res.bestTrade)
+            fs.writeFileSync( './data/tradeTest.json', JSON.stringify(arr))
+        }
+    }
 
     // let filterArr = arr.filter(el => el.length > 2)
     // fs.writeFileSync( './data/tradeTest.json', JSON.stringify(filterArr))

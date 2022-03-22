@@ -21,9 +21,23 @@ let showBestTade = (obj) => {
 
     list = list.sort((a,b) => b.percent - a.percent)
 
+    let bestTrade;
+
+    if(obj.direction === "SELL") {
+        let isBuy = list.filter(el => el.direction === "BUY") 
+
+        isBuy = isBuy.sort((a,b) => b.percent - a.percent)
+        bestTrade = isBuy[0]
+
+        if(isBuy.length === 0) {
+            let sortForSell = list.sort((a,b) => a.percent - b.percent)
+            bestTrade = sortForSell[0]
+        }
+    }
+
     let res = {
         list: list,
-        bestTrade: list[0]
+        bestTrade: bestTrade
     }
 
     return res
