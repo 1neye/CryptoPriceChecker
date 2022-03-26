@@ -4,6 +4,7 @@ const analizePrice = require(`${__dirname}/modules/analizePrice`);
 
 
 const fs = require('fs');
+const createList = require('./modules/createList');
 const findAllEnd = require('./modules/findAllEnd');
 const findAllStart = require('./modules/findAllStart');
 
@@ -44,7 +45,10 @@ let start = async () => {
         
     }
 
-     fs.writeFileSync('./data/tradeTest.json', JSON.stringify(listEnd))
+    fs.writeFileSync('./data/tradeTest.json', JSON.stringify(listEnd))
+
+    createList(listEnd)
+
 
 }
 
