@@ -44,6 +44,10 @@ let analizePrice = async (cryptoPrice) => {
 
     fs.writeFileSync('./data/cryptoAnalize.json', JSON.stringify(res))
 
+    let filterBy1Percent = res.filter(el => el.percent > 1 && el.percent < 100 )
+    fs.writeFileSync('./data/filterBy1Percent.json', JSON.stringify(filterBy1Percent))
+
+
     return res
 }
 

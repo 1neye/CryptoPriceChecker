@@ -7,9 +7,9 @@ let getCryptoPrice = async (pairList) => {
     
     let res = await axios.get('https://api.binance.com/api/v3/ticker/bookTicker')
 
-    getSymbols(res.data)
+    await getSymbols(res.data)
 
-    fs.writeFileSync( './data/cryptoPrice.json', JSON.stringify(res.data))
+    // fs.writeFileSync( './data/cryptoPrice.json', JSON.stringify(res.data))
     
 }
 

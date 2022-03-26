@@ -6,7 +6,6 @@ let getSymbols = async (cryptoPrice) => {
     let res = []
 
     let cryptoList = await getcryptoPairs()
-    console.log(cryptoList)
 
     cryptoPrice.forEach(el=> {
         let idx = cryptoList.findIndex(i => i.symbol === el.symbol) 
