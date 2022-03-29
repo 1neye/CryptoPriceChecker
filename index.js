@@ -1,9 +1,9 @@
+const path = require('path');
+const fs = require('fs');
 
 const getCryptoPrice = require(`${__dirname}/modules/getCryptoPrice`);
 const analizePrice = require(`${__dirname}/modules/analizePrice`);
 
-
-const fs = require('fs');
 const createList = require('./modules/createList');
 const findAllEnd = require('./modules/findAllEnd');
 const findAllStart = require('./modules/findAllStart');
@@ -17,7 +17,7 @@ const findAllStart = require('./modules/findAllStart');
 let start = async () => {
 
     await getCryptoPrice()
-    let cryptoPrice = JSON.parse(fs.readFileSync('./data/cryptoPrice.json',  'utf8'))
+    let cryptoPrice = JSON.parse(fs.readFileSync(`./data/cryptoPrice.json`,  'utf8'))
     await analizePrice(cryptoPrice)
 
     let list = JSON.parse(fs.readFileSync('./data/filterBy1Percent.json', 'utf8'))

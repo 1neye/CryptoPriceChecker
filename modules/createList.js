@@ -1,8 +1,8 @@
 const fs = require('fs');
+const path = require('path');
 
 let createList = (arr) => {
 
-    // let arr = JSON.parse(fs.readFileSync('./data/tradeTest.json', 'utf8'))
     arr = arr.filter(el => Array.isArray(el[0]))
     let first
 
@@ -46,7 +46,7 @@ let createList = (arr) => {
 
     })
 
-    fs.writeFileSync('./data/tradeProduct.json', JSON.stringify(sortedArr))
+    fs.writeFileSync(path.join(__dirname, '../data/tradeProduct.json'), JSON.stringify(sortedArr))
 
     return sortedArr
 }

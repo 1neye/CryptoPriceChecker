@@ -1,8 +1,12 @@
 const axios = require('axios');
-const fs = require('fs')
+const fs = require('fs');
+const path = require('path');
+
 
 const getcryptoPairs = async () => {
+
     let res = await axios.get('https://api.binance.com/api/v3/exchangeInfo')
+
 
     let pairsList = []
 
@@ -10,7 +14,7 @@ const getcryptoPairs = async () => {
         pairsList.push({baseAsset: el.baseAsset, quoteAsset: el.quoteAsset, symbol: el.symbol})
     });
 
-    fs.writeFileSync( './data/cryptoList.json', JSON.stringify(pairsList))
+    fs.writeFileSync( path.join(__dirname, `../data/cryptoList.json`), JSON.stringify(pairsList))
 
     return pairsList
 }

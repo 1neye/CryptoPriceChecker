@@ -1,5 +1,6 @@
 const fs = require('fs');
 const getcryptoPairs = require('./getcryptoPairs');
+const path = require('path');
 
 let getSymbols = async (cryptoPrice) => {
 
@@ -17,7 +18,7 @@ let getSymbols = async (cryptoPrice) => {
         res.push(el)
 
     });
-    fs.writeFileSync( './data/cryptoPrice.json', JSON.stringify(res))
+    fs.writeFileSync(path.join(__dirname, '../data/cryptoPrice.json'), JSON.stringify(res))
 }
 
 module.exports = getSymbols

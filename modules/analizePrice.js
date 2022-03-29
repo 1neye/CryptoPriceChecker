@@ -1,5 +1,7 @@
 const getPercent = require('./getPercent');
 const fs = require('fs');
+const path = require('path');
+
 
 let analizePrice = async (cryptoPrice) => {
 
@@ -42,10 +44,10 @@ let analizePrice = async (cryptoPrice) => {
         }
     });
 
-    fs.writeFileSync('./data/cryptoAnalize.json', JSON.stringify(res))
+    fs.writeFileSync(path.join(__dirname, '../data/cryptoAnalize.json'), JSON.stringify(res))
 
     let filterBy1Percent = res.filter(el => el.percent > 1 && el.percent < 100 )
-    fs.writeFileSync('./data/filterBy1Percent.json', JSON.stringify(filterBy1Percent))
+    fs.writeFileSync(path.join(__dirname, '../data/filterBy1Percent.json'), JSON.stringify(filterBy1Percent))
 
 
     return res

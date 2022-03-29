@@ -1,9 +1,10 @@
 const fs = require('fs');
 const showSymbolTrades = require('./showSymbolTrade');
+const path = require('path');
 
 let findAllEnd = (pair) => {
 
-    let listOfStable = JSON.parse(fs.readFileSync('./data/listOfStable.json', 'utf8'))
+    let listOfStable = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/listOfStable.json'), 'utf8'))
 
     let symbolArr = []
     symbolArr.push(pair.symbol2)
