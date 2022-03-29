@@ -48,7 +48,7 @@ let findAllStart = (pair) => {
                 }
             }
         }
-        fs.writeFileSync('./data/tradeStart.json', JSON.stringify(chain))
+        fs.writeFileSync(path.join(__dirname, '../data/tradeStart.json'), JSON.stringify(chain))
     return chain
 }
 
