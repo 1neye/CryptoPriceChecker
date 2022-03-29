@@ -46,7 +46,9 @@ let start = async () => {
 
     fs.writeFileSync(path.join(__dirname,'./data/tradeTest.json'), JSON.stringify(listEnd))
 
-    createList(listEnd)
+    let product = await createList(listEnd)
+
+    return product
 
 
 }

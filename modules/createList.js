@@ -36,9 +36,25 @@ let createList = (arr) => {
         })
     })
 
-    let sortedArr = []
+   let filterByZero = []
 
     firstArr.forEach(el => {
+        let g = []
+        filterByZero.push(g)
+        el.forEach(e => {
+
+        if(e[3].fullProfit > 0) {
+            filterByZero[filterByZero.length - 1].push(e)
+        }
+        
+        })
+    })
+
+    console.log(filterByZero)
+
+    let sortedArr = []
+
+    filterByZero.forEach(el => {
 
         let sortEL = el.sort((a,b) => b[3].fullProfit - a[3].fullProfit)
 
@@ -47,6 +63,29 @@ let createList = (arr) => {
     })
 
     fs.writeFileSync(path.join(__dirname, '../data/tradeProduct.json'), JSON.stringify(sortedArr))
+    
+    let free = []
+     sortedArr.forEach(el => {
+
+        let g = []
+        free.push(g)
+
+        el.forEach(e => {
+            if(e[3].fullProfit < 1.13) {
+                free[free.length - 1].push(e)
+            }
+        })
+    })
+
+    free = free.filter(el => el.length > 0)
+
+    fs.writeFileSync(path.join(__dirname, '../data/tradeProductFree.json'), JSON.stringify(free)) //all under 1.13
+
+    let freeFirst = []
+
+    free.forEach(el => freeFirst.push(el[0]))
+
+    fs.writeFileSync(path.join(__dirname, '../data/tradeProductFreeFirst.json'), JSON.stringify(freeFirst)) // all first arr of array
 
     return sortedArr
 }

@@ -17,37 +17,39 @@ let findAllEnd = (pair) => {
     let filterPrice = 0.3;
 
     let findStable = false;
-        while (!findStable) {
+    while (!findStable) {
 
-            if(symbolArr.length === 0) {
+        if (symbolArr.length === 0) {
+            findStable = true
+            return
+        }
+
+        for (let j = 0; j < symbolArr.length; j++) {
+            let res = showSymbolTrades(symbolArr[j])
+            let filterList = res.filter(el => el.percent < filterPrice)
+            filterList = filterList.sort((a, b) => b.percent - a.percent)
+
+            let isStable = res.filter(el => listOfStable.includes(el.symbol2) || listOfStable.includes(el.symbol1) && el !== pair)
+            if (isStable.length > 0) {
+                chain.push(isStable)
                 findStable = true
-                return
-            }
-
-            for (let j = 0; j < symbolArr.length; j++) {
-                let res = showSymbolTrades(symbolArr[j])
-                let filterList = res.filter(el => el.percent < filterPrice)
-                filterList = filterList.sort((a, b) => b.percent - a.percent)
-
-                let isStable = res.filter(el => listOfStable.includes(el.symbol2) || listOfStable.includes(el.symbol1) && el !== pair)
-                if (isStable.length > 0) {
-                    chain.push(isStable)
-                    findStable = true
-                    break
-                } else {
-                    prevArr.push(...symbolArr)
-                    symbolArr = []
-                    filterList.forEach(el => {
-                        if(!prevArr.includes(el.symbol1) && !prevArr.includes(el.symbol2))
-                            symbolArr.push(el.symbol1)
-                            symbolArr.push(el.symbol2)
-                    });
-                }
+                break
+            } else {
+                prevArr.push(...symbolArr)
+                symbolArr = []
+                filterList.forEach(el => {
+                    if (!prevArr.includes(el.symbol1) && !prevArr.includes(el.symbol2))
+                        symbolArr.push(el.symbol1)
+                    symbolArr.push(el.symbol2)
+                });
             }
         }
+    }
 
     return chain
 
 }
+
+// findAllEnd()
 
 module.exports = findAllEnd
