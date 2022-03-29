@@ -51,4 +51,6 @@ let start = async () => {
 
 }
 
-start()
+// start()
+
+module.exports = start
