@@ -83,7 +83,11 @@ let createList = (arr) => {
 
     let freeFirst = []
 
-    free.forEach(el => freeFirst.push(el[0]))
+    free.forEach(el => {
+        freeFirst.push([])
+        freeFirst[freeFirst.length - 1].push(el[0])
+
+    })
 
     fs.writeFileSync(path.join(__dirname, '../data/tradeProductFreeFirst.json'), JSON.stringify(freeFirst)) // all first arr of array
 

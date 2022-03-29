@@ -1,740 +1,518 @@
 [
     [
-        {
-            "direction": "SELL",
-            "gap": 0.0001,
-            "percent": 0.11627906976744,
-            "symbol": "DNTBUSD",
-            "bidPrice": "0.08600000",
-            "bidQty": "250.00000000",
-            "askPrice": "0.08610000",
-            "askQty": "5525.00000000",
-            "symbol1": "DNT",
-            "symbol2": "BUSD"
-        },
-        {
-            "direction": "SELL",
-            "gap": 2e-8,
-            "percent": 1.1111111111111,
-            "symbol": "DNTBTC",
-            "bidPrice": "0.00000180",
-            "bidQty": "56568.00000000",
-            "askPrice": "0.00000182",
-            "askQty": "74301.00000000",
-            "symbol1": "DNT",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.99
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.0001,
+                "percent": 0.11574074074074,
+                "symbol": "DNTUSDT",
+                "bidPrice": "0.08640000",
+                "bidQty": "35849.00000000",
+                "askPrice": "0.08650000",
+                "askQty": "1600.00000000",
+                "symbol1": "DNT",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 2e-8,
+                "percent": 1.1111111111111,
+                "symbol": "DNTBTC",
+                "bidPrice": "0.00000180",
+                "bidQty": "94373.00000000",
+                "askPrice": "0.00000182",
+                "askQty": "45405.00000000",
+                "symbol1": "DNT",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.000002,
-            "percent": 0.05954153021732,
-            "symbol": "DENTUSDT",
-            "bidPrice": "0.00335900",
-            "bidQty": "254726.00000000",
-            "askPrice": "0.00336100",
-            "askQty": "339300.00000000",
-            "symbol1": "DENT",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.03092783505154,
-            "symbol": "DENTETH",
-            "bidPrice": "0.00000097",
-            "bidQty": "2921624.00000000",
-            "askPrice": "0.00000098",
-            "askQty": "417821.00000000",
-            "symbol1": "DENT",
-            "symbol2": "ETH"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.00029101745522,
-            "symbol": "ETHUSDT",
-            "bidPrice": "3436.22000000",
-            "bidQty": "10.23200000",
-            "askPrice": "3436.23000000",
-            "askQty": "0.89070000",
-            "symbol1": "ETH",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.97
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.000001,
+                "percent": 0.02954209748892,
+                "symbol": "DENTUSDT",
+                "bidPrice": "0.00338500",
+                "bidQty": "112052.00000000",
+                "askPrice": "0.00338600",
+                "askQty": "2428025.00000000",
+                "symbol1": "DENT",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.0204081632653,
+                "symbol": "DENTETH",
+                "bidPrice": "0.00000098",
+                "bidQty": "297200.00000000",
+                "askPrice": "0.00000099",
+                "askQty": "3996338.00000000",
+                "symbol1": "DENT",
+                "symbol2": "ETH"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.0002897584863,
+                "symbol": "ETHUSDT",
+                "bidPrice": "3451.15000000",
+                "bidQty": "0.10370000",
+                "askPrice": "3451.16000000",
+                "askQty": "28.76800000",
+                "symbol1": "ETH",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 0.99
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 5e-7,
-            "percent": 0.14594279042616,
-            "symbol": "WINBUSD",
-            "bidPrice": "0.00034260",
-            "bidQty": "2918429.00000000",
-            "askPrice": "0.00034310",
-            "askQty": "6310239.00000000",
-            "symbol1": "WIN",
-            "symbol2": "BUSD"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.28205128205128,
-            "symbol": "WINBNB",
-            "bidPrice": "0.00000078",
-            "bidQty": "34321431.00000000",
-            "askPrice": "0.00000079",
-            "askQty": "4924683.00000000",
-            "symbol1": "WIN",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.1,
-            "percent": 0.0228832951945,
-            "symbol": "BNBUSDT",
-            "bidPrice": "437.00000000",
-            "bidQty": "301.61600000",
-            "askPrice": "437.10000000",
-            "askQty": "237.19000000",
-            "symbol1": "BNB",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 1.11
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00006,
+                "percent": 0.13911430558776,
+                "symbol": "MITHUSDT",
+                "bidPrice": "0.04313000",
+                "bidQty": "7500.00000000",
+                "askPrice": "0.04319000",
+                "askQty": "1255.70000000",
+                "symbol1": "MITH",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.1111111111111,
+                "symbol": "MITHBTC",
+                "bidPrice": "0.00000090",
+                "bidQty": "85282.00000000",
+                "askPrice": "0.00000091",
+                "askQty": "201876.00000000",
+                "symbol1": "MITH",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 0.97
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.00013,
-            "percent": 0.14990774907748,
-            "symbol": "ARPAUSDT",
-            "bidPrice": "0.08672000",
-            "bidQty": "4612.50000000",
-            "askPrice": "0.08685000",
-            "askQty": "2496.20000000",
-            "symbol1": "ARPA",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 2e-8,
-            "percent": 1.1049723756906,
-            "symbol": "ARPABTC",
-            "bidPrice": "0.00000181",
-            "bidQty": "177967.00000000",
-            "askPrice": "0.00000183",
-            "askQty": "135715.00000000",
-            "symbol1": "ARPA",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.96
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00005,
+                "percent": 0.05690871841566,
+                "symbol": "ARPAUSDT",
+                "bidPrice": "0.08786000",
+                "bidQty": "6150.00000000",
+                "askPrice": "0.08791000",
+                "askQty": "6150.00000000",
+                "symbol1": "ARPA",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 2e-8,
+                "percent": 1.0928961748634,
+                "symbol": "ARPABTC",
+                "bidPrice": "0.00000183",
+                "bidQty": "177628.00000000",
+                "askPrice": "0.00000185",
+                "askQty": "184921.00000000",
+                "symbol1": "ARPA",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1.04
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.83,
-            "percent": 0.19001396488176,
-            "symbol": "BNBUSDP",
-            "bidPrice": "436.81000000",
-            "bidQty": "0.91600000",
-            "askPrice": "437.64000000",
-            "askQty": "0.91400000",
-            "symbol1": "BNB",
-            "symbol2": "USDP"
-        },
-        {
-            "direction": "SELL",
-            "gap": 81903,
-            "percent": 1.31976660806624,
-            "symbol": "BNBIDRT",
-            "bidPrice": "6205870.00",
-            "bidQty": "0.75300000",
-            "askPrice": "6287773.00",
-            "askQty": "1.14300000",
-            "symbol1": "BNB",
-            "symbol2": "IDRT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 2,
-            "percent": 0.0139703827885,
-            "symbol": "USDTIDRT",
-            "bidPrice": "14316.00",
-            "bidQty": "642.00000000",
-            "askPrice": "14318.00",
-            "askQty": "45.00000000",
-            "symbol1": "USDT",
-            "symbol2": "IDRT"
-        },
-        {
-            "fullProfit": 1.12
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.79,
+                "percent": 0.17995854119684,
+                "symbol": "BNBUSDP",
+                "bidPrice": "438.99000000",
+                "bidQty": "0.91100000",
+                "askPrice": "439.78000000",
+                "askQty": "0.91000000",
+                "symbol1": "BNB",
+                "symbol2": "USDP"
+            },
+            {
+                "direction": "SELL",
+                "gap": 80143,
+                "percent": 1.2893690082945,
+                "symbol": "BNBIDRT",
+                "bidPrice": "6215676.00",
+                "bidQty": "0.88800000",
+                "askPrice": "6295819.00",
+                "askQty": "1.13800000",
+                "symbol1": "BNB",
+                "symbol2": "IDRT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 2,
+                "percent": 0.01397135871464,
+                "symbol": "USDTIDRT",
+                "bidPrice": "14315.00",
+                "bidQty": "5401.00000000",
+                "askPrice": "14317.00",
+                "askQty": "140.00000000",
+                "symbol1": "USDT",
+                "symbol2": "IDRT"
+            },
+            {
+                "fullProfit": 1.1
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.00008,
-            "percent": 0.2348106838861,
-            "symbol": "DGBBUSD",
-            "bidPrice": "0.03407000",
-            "bidQty": "13962.90000000",
-            "askPrice": "0.03415000",
-            "askQty": "4267.20000000",
-            "symbol1": "DGB",
-            "symbol2": "BUSD"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.40845070422536,
-            "symbol": "DGBBTC",
-            "bidPrice": "0.00000071",
-            "bidQty": "4059852.00000000",
-            "askPrice": "0.00000072",
-            "askQty": "1230639.00000000",
-            "symbol1": "DGB",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 31.08,
-            "percent": 0.0652428143164,
-            "symbol": "BTCTUSD",
-            "bidPrice": "47637.43000000",
-            "bidQty": "0.02099000",
-            "askPrice": "47668.51000000",
-            "askQty": "0.10495000",
-            "symbol1": "BTC",
-            "symbol2": "TUSD"
-        },
-        {
-            "fullProfit": 1.11
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00011,
+                "percent": 0.3196745132229,
+                "symbol": "DGBBUSD",
+                "bidPrice": "0.03441000",
+                "bidQty": "31749.70000000",
+                "askPrice": "0.03452000",
+                "askQty": "9762.60000000",
+                "symbol1": "DGB",
+                "symbol2": "BUSD"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.38888888888888,
+                "symbol": "DGBBTC",
+                "bidPrice": "0.00000072",
+                "bidQty": "2555213.00000000",
+                "askPrice": "0.00000073",
+                "askQty": "2640463.00000000",
+                "symbol1": "DGB",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1.07
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.0003,
-            "percent": 0.12180267965896,
-            "symbol": "FLMUSDT",
-            "bidPrice": "0.24630000",
-            "bidQty": "2766.00000000",
-            "askPrice": "0.24660000",
-            "askQty": "2636.00000000",
-            "symbol1": "FLM",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.0026,
-            "percent": 1.05777054515868,
-            "symbol": "FLMBUSD",
-            "bidPrice": "0.24580000",
-            "bidQty": "11665.00000000",
-            "askPrice": "0.24840000",
-            "askQty": "8241.00000000",
-            "symbol1": "FLM",
-            "symbol2": "BUSD"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.00002098349208,
-            "symbol": "BTCBUSD",
-            "bidPrice": "47656.51000000",
-            "bidQty": "0.93237000",
-            "askPrice": "47656.52000000",
-            "askQty": "0.02807000",
-            "symbol1": "BTC",
-            "symbol2": "BUSD"
-        },
-        {
-            "fullProfit": 0.94
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.0002,
+                "percent": 0.05336179295624,
+                "symbol": "ALPHAUSDT",
+                "bidPrice": "0.37480000",
+                "bidQty": "645.00000000",
+                "askPrice": "0.37500000",
+                "askQty": "4141.00000000",
+                "symbol1": "ALPHA",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.000009,
+                "percent": 1.0550996483001,
+                "symbol": "ALPHABNB",
+                "bidPrice": "0.00085300",
+                "bidQty": "667.00000000",
+                "askPrice": "0.00086200",
+                "askQty": "1051.00000000",
+                "symbol1": "ALPHA",
+                "symbol2": "BNB"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.1,
+                "percent": 0.02276867030966,
+                "symbol": "BNBUSDT",
+                "bidPrice": "439.20000000",
+                "bidQty": "175.23300000",
+                "askPrice": "439.30000000",
+                "askQty": "475.56300000",
+                "symbol1": "BNB",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 0.98
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.0006,
-            "percent": 0.16133369185264,
-            "symbol": "ALPHABUSD",
-            "bidPrice": "0.37190000",
-            "bidQty": "672.00000000",
-            "askPrice": "0.37250000",
-            "askQty": "1374.00000000",
-            "symbol1": "ALPHA",
-            "symbol2": "BUSD"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.000012,
-            "percent": 1.41176470588236,
-            "symbol": "ALPHABNB",
-            "bidPrice": "0.00085000",
-            "bidQty": "4029.00000000",
-            "askPrice": "0.00086200",
-            "askQty": "1051.00000000",
-            "symbol1": "ALPHA",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.83,
-            "percent": 0.19001396488176,
-            "symbol": "BNBUSDP",
-            "bidPrice": "436.81000000",
-            "bidQty": "0.91600000",
-            "askPrice": "437.64000000",
-            "askQty": "0.91400000",
-            "symbol1": "BNB",
-            "symbol2": "USDP"
-        },
-        {
-            "fullProfit": 1.06
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00001,
+                "percent": 0.02457606291472,
+                "symbol": "PONDBUSD",
+                "bidPrice": "0.04069000",
+                "bidQty": "4150.87000000",
+                "askPrice": "0.04070000",
+                "askQty": "11490.54000000",
+                "symbol1": "POND",
+                "symbol2": "BUSD"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.1764705882353,
+                "symbol": "PONDBTC",
+                "bidPrice": "0.00000085",
+                "bidQty": "256757.00000000",
+                "askPrice": "0.00000086",
+                "askQty": "341524.00000000",
+                "symbol1": "POND",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 20.86,
+                "percent": 0.04365246859316,
+                "symbol": "BTCDAI",
+                "bidPrice": "47786.53000000",
+                "bidQty": "0.01046000",
+                "askPrice": "47807.39000000",
+                "askQty": "0.03144000",
+                "symbol1": "BTC",
+                "symbol2": "DAI"
+            },
+            {
+                "fullProfit": 1.11
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.0001,
-            "percent": 0.1138952164009,
-            "symbol": "OMUSDT",
-            "bidPrice": "0.08780000",
-            "bidQty": "419.00000000",
-            "askPrice": "0.08790000",
-            "askQty": "3152.00000000",
-            "symbol1": "OM",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 2e-8,
-            "percent": 1.0928961748634,
-            "symbol": "OMBTC",
-            "bidPrice": "0.00000183",
-            "bidQty": "97532.00000000",
-            "askPrice": "0.00000185",
-            "askQty": "59792.00000000",
-            "symbol1": "OM",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.98
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.0001,
+                "percent": 0.2857142857143,
+                "symbol": "JASMYUSDT",
+                "bidPrice": "0.03500000",
+                "bidQty": "915562.20000000",
+                "askPrice": "0.03510000",
+                "askQty": "1292392.90000000",
+                "symbol1": "JASMY",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.36986301369864,
+                "symbol": "JASMYBTC",
+                "bidPrice": "0.00000073",
+                "bidQty": "2708432.10000000",
+                "askPrice": "0.00000074",
+                "askQty": "2186818.30000000",
+                "symbol1": "JASMY",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1.08
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.00005,
-            "percent": 0.1257229067136,
-            "symbol": "PONDUSDT",
-            "bidPrice": "0.03977000",
-            "bidQty": "11000.00000000",
-            "askPrice": "0.03982000",
-            "askQty": "11929.76000000",
-            "symbol1": "POND",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.20481927710844,
-            "symbol": "PONDBTC",
-            "bidPrice": "0.00000083",
-            "bidQty": "684071.00000000",
-            "askPrice": "0.00000084",
-            "askQty": "1207517.00000000",
-            "symbol1": "POND",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 1.08
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.0001,
+                "percent": 0.00589205750648,
+                "symbol": "GXSUSDT",
+                "bidPrice": "1.69720000",
+                "bidQty": "1845.00000000",
+                "askPrice": "1.69730000",
+                "askQty": "700.00000000",
+                "symbol1": "GXS",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.000044,
+                "percent": 1.14345114345114,
+                "symbol": "GXSBNB",
+                "bidPrice": "0.00384800",
+                "bidQty": "493.61000000",
+                "askPrice": "0.00389200",
+                "askQty": "108.24000000",
+                "symbol1": "GXS",
+                "symbol2": "BNB"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.1,
+                "percent": 0.02276867030966,
+                "symbol": "BNBUSDT",
+                "bidPrice": "439.20000000",
+                "bidQty": "175.23300000",
+                "askPrice": "439.30000000",
+                "askQty": "475.56300000",
+                "symbol1": "BNB",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1.11
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.001,
-            "percent": 0.10787486515642,
-            "symbol": "CHESSUSDT",
-            "bidPrice": "0.92700000",
-            "bidQty": "157.20000000",
-            "askPrice": "0.92800000",
-            "askQty": "4307.70000000",
-            "symbol1": "CHESS",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.000027,
-            "percent": 1.280834914611,
-            "symbol": "CHESSBNB",
-            "bidPrice": "0.00210800",
-            "bidQty": "441.40000000",
-            "askPrice": "0.00213500",
-            "askQty": "702.40000000",
-            "symbol1": "CHESS",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.4,
-            "percent": 0.09153318077804,
-            "symbol": "BNBTUSD",
-            "bidPrice": "437.00000000",
-            "bidQty": "0.90800000",
-            "askPrice": "437.40000000",
-            "askQty": "2.15900000",
-            "symbol1": "BNB",
-            "symbol2": "TUSD"
-        },
-        {
-            "fullProfit": 1.08
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00006,
+                "percent": 0.1342582233162,
+                "symbol": "ACHBUSD",
+                "bidPrice": "0.04469000",
+                "bidQty": "2000.00000000",
+                "askPrice": "0.04475000",
+                "askQty": "5594.00000000",
+                "symbol1": "ACH",
+                "symbol2": "BUSD"
+            },
+            {
+                "direction": "SELL",
+                "gap": 1e-8,
+                "percent": 1.0752688172043,
+                "symbol": "ACHBTC",
+                "bidPrice": "0.00000093",
+                "bidQty": "711938.00000000",
+                "askPrice": "0.00000094",
+                "askQty": "229742.00000000",
+                "symbol1": "ACH",
+                "symbol2": "BTC"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.01,
+                "percent": 0.00002092931606,
+                "symbol": "BTCUSDT",
+                "bidPrice": "47779.87000000",
+                "bidQty": "0.05193000",
+                "askPrice": "47779.88000000",
+                "askQty": "11.54093000",
+                "symbol1": "BTC",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 0.94
+            }
+        ]
     ],
     [
-        {
-            "direction": "SELL",
-            "gap": 0.0001,
-            "percent": 0.00692520775624,
-            "symbol": "FTMUSDT",
-            "bidPrice": "1.44400000",
-            "bidQty": "2467.00000000",
-            "askPrice": "1.44410000",
-            "askQty": "298.00000000",
-            "symbol1": "FTM",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1.7,
-            "percent": 1.35135135135136,
-            "symbol": "FTMRUB",
-            "bidPrice": "125.80000000",
-            "bidQty": "69.20000000",
-            "askPrice": "127.50000000",
-            "askQty": "8486.50000000",
-            "symbol1": "FTM",
-            "symbol2": "RUB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.21,
-            "percent": 0.2407980736154,
-            "symbol": "BUSDRUB",
-            "bidPrice": "87.21000000",
-            "bidQty": "6.00000000",
-            "askPrice": "87.42000000",
-            "askQty": "12.00000000",
-            "symbol1": "BUSD",
-            "symbol2": "RUB"
-        },
-        {
-            "fullProfit": 1.1
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.0001,
-            "percent": 0.28818443804036,
-            "symbol": "JASMYUSDT",
-            "bidPrice": "0.03470000",
-            "bidQty": "2057173.10000000",
-            "askPrice": "0.03480000",
-            "askQty": "55163.20000000",
-            "symbol1": "JASMY",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.36986301369864,
-            "symbol": "JASMYBTC",
-            "bidPrice": "0.00000073",
-            "bidQty": "35623.50000000",
-            "askPrice": "0.00000074",
-            "askQty": "2057318.70000000",
-            "symbol1": "JASMY",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 1.08
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.0002,
-            "percent": 0.00727219838556,
-            "symbol": "MANAUSDT",
-            "bidPrice": "2.75020000",
-            "bidQty": "81.00000000",
-            "askPrice": "2.75040000",
-            "askQty": "37.00000000",
-            "symbol1": "MANA",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 434,
-            "percent": 1.10146693061266,
-            "symbol": "MANABIDR",
-            "bidPrice": "39402.00",
-            "bidQty": "145.78000000",
-            "askPrice": "39836.00",
-            "askQty": "325.83000000",
-            "symbol1": "MANA",
-            "symbol2": "BIDR"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1,
-            "percent": 0.00696184906712,
-            "symbol": "USDTBIDR",
-            "bidPrice": "14364.00",
-            "bidQty": "62322.80000000",
-            "askPrice": "14365.00",
-            "askQty": "17231.60000000",
-            "symbol1": "USDT",
-            "symbol2": "BIDR"
-        },
-        {
-            "fullProfit": 1.09
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.0018,
-            "percent": 0.10662243809976,
-            "symbol": "GXSUSDT",
-            "bidPrice": "1.68820000",
-            "bidQty": "29.00000000",
-            "askPrice": "1.69000000",
-            "askQty": "2216.00000000",
-            "symbol1": "GXS",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.000045,
-            "percent": 1.16943866943866,
-            "symbol": "GXSBNB",
-            "bidPrice": "0.00384800",
-            "bidQty": "168.42000000",
-            "askPrice": "0.00389300",
-            "askQty": "322.79000000",
-            "symbol1": "GXS",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.1,
-            "percent": 0.0228832951945,
-            "symbol": "BNBUSDT",
-            "bidPrice": "437.00000000",
-            "bidQty": "301.61600000",
-            "askPrice": "437.10000000",
-            "askQty": "237.19000000",
-            "symbol1": "BNB",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 1.04
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.00011,
-            "percent": 0.2394427514149,
-            "symbol": "ACHUSDT",
-            "bidPrice": "0.04594000",
-            "bidQty": "6567.00000000",
-            "askPrice": "0.04605000",
-            "askQty": "7435.00000000",
-            "symbol1": "ACH",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 1e-8,
-            "percent": 1.04166666666668,
-            "symbol": "ACHBTC",
-            "bidPrice": "0.00000096",
-            "bidQty": "429684.00000000",
-            "askPrice": "0.00000097",
-            "askQty": "485067.00000000",
-            "symbol1": "ACH",
-            "symbol2": "BTC"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.01,
-            "percent": 0.0000209940824,
-            "symbol": "BTCUSDT",
-            "bidPrice": "47632.47000000",
-            "bidQty": "12.14881000",
-            "askPrice": "47632.48000000",
-            "askQty": "0.10647000",
-            "symbol1": "BTC",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.8
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.00007,
-            "percent": 0.14610728449176,
-            "symbol": "FORUSDT",
-            "bidPrice": "0.04791000",
-            "bidQty": "10864.00000000",
-            "askPrice": "0.04798000",
-            "askQty": "1488.00000000",
-            "symbol1": "FOR",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.0000012,
-            "percent": 1.0989010989011,
-            "symbol": "FORBNB",
-            "bidPrice": "0.00010920",
-            "bidQty": "8302.00000000",
-            "askPrice": "0.00011040",
-            "askQty": "9949.00000000",
-            "symbol1": "FOR",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.1,
-            "percent": 0.0228832951945,
-            "symbol": "BNBUSDT",
-            "bidPrice": "437.00000000",
-            "bidQty": "301.61600000",
-            "askPrice": "437.10000000",
-            "askQty": "237.19000000",
-            "symbol1": "BNB",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 0.93
-        }
-    ],
-    [
-        {
-            "direction": "SELL",
-            "gap": 0.0003,
-            "percent": 0.00919850371006,
-            "symbol": "GLMRUSDT",
-            "bidPrice": "3.26140000",
-            "bidQty": "1484.00000000",
-            "askPrice": "3.26170000",
-            "askQty": "4.00000000",
-            "symbol1": "GLMR",
-            "symbol2": "USDT"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.000083,
-            "percent": 1.11514174392048,
-            "symbol": "GLMRBNB",
-            "bidPrice": "0.00744300",
-            "bidQty": "123.97000000",
-            "askPrice": "0.00752600",
-            "askQty": "153.30000000",
-            "symbol1": "GLMR",
-            "symbol2": "BNB"
-        },
-        {
-            "direction": "SELL",
-            "gap": 0.1,
-            "percent": 0.0228832951945,
-            "symbol": "BNBUSDT",
-            "bidPrice": "437.00000000",
-            "bidQty": "301.61600000",
-            "askPrice": "437.10000000",
-            "askQty": "237.19000000",
-            "symbol1": "BNB",
-            "symbol2": "USDT"
-        },
-        {
-            "fullProfit": 1.08
-        }
+        [
+            {
+                "direction": "SELL",
+                "gap": 0.00006,
+                "percent": 0.12510425354462,
+                "symbol": "FORUSDT",
+                "bidPrice": "0.04796000",
+                "bidQty": "882.00000000",
+                "askPrice": "0.04802000",
+                "askQty": "1628.00000000",
+                "symbol1": "FOR",
+                "symbol2": "USDT"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.0000013,
+                "percent": 1.19156736938588,
+                "symbol": "FORBNB",
+                "bidPrice": "0.00010910",
+                "bidQty": "3321.00000000",
+                "askPrice": "0.00011040",
+                "askQty": "8212.00000000",
+                "symbol1": "FOR",
+                "symbol2": "BNB"
+            },
+            {
+                "direction": "SELL",
+                "gap": 0.1,
+                "percent": 0.02276867030966,
+                "symbol": "BNBUSDT",
+                "bidPrice": "439.20000000",
+                "bidQty": "175.23300000",
+                "askPrice": "439.30000000",
+                "askQty": "475.56300000",
+                "symbol1": "BNB",
+                "symbol2": "USDT"
+            },
+            {
+                "fullProfit": 1.04
+            }
+        ]
     ]
 ]
