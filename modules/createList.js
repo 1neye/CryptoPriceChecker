@@ -50,8 +50,6 @@ let createList = (arr) => {
         })
     })
 
-    console.log(filterByZero)
-
     let sortedArr = []
 
     filterByZero.forEach(el => {

@@ -11,6 +11,7 @@ const findAllStart = require(`${__dirname}/modules/findAllStart`);
 // https://api.binance.com/api/v3/ticker/price?symbol=FIROUSDT get current price
 // https://api.binance.com/api/v3/exchangeInfo get all symbols
 // https://api.binance.com/api/v3/ticker/bookTicker
+// https://api.binance.com/api/v3/ticker/24hr?symbol=REEFBTC for volume
 
 
 let start = async () => {

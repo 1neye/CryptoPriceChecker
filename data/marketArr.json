@@ -1,0 +1,1526 @@
+[
+    {
+        "symbol": "XVGUSDT",
+        "marketPrice": "0.01160000"
+    },
+    {
+        "symbol": "XVGBTC",
+        "marketPrice": "0.00000026"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "marketPrice": "43687.88000000"
+    },
+    {
+        "symbol": "BTCUSDC",
+        "marketPrice": "43702.55000000"
+    },
+    {
+        "symbol": "BTCBUSD",
+        "marketPrice": "43686.49000000"
+    },
+    {
+        "symbol": "BTCDAI",
+        "marketPrice": "43677.65000000"
+    },
+    {
+        "symbol": "BTCTUSD",
+        "marketPrice": "43752.24000000"
+    },
+    {
+        "symbol": "BTCUSDP",
+        "marketPrice": "43777.47000000"
+    },
+    {
+        "symbol": "XVGBUSD",
+        "marketPrice": "0.01160000"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "marketPrice": "0.02416000"
+    },
+    {
+        "symbol": "BTSBTC",
+        "marketPrice": "0.00000055"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "marketPrice": "0.35220000"
+    },
+    {
+        "symbol": "ELFETH",
+        "marketPrice": "0.00011030"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "marketPrice": "3208.13000000"
+    },
+    {
+        "symbol": "ETHBUSD",
+        "marketPrice": "3208.23000000"
+    },
+    {
+        "symbol": "ETHUSDC",
+        "marketPrice": "3207.39000000"
+    },
+    {
+        "symbol": "ETHDAI",
+        "marketPrice": "3207.38000000"
+    },
+    {
+        "symbol": "ETHTUSD",
+        "marketPrice": "3208.45000000"
+    },
+    {
+        "symbol": "ETHUSDP",
+        "marketPrice": "3199.38000000"
+    },
+    {
+        "symbol": "ELFBUSD",
+        "marketPrice": "0.35480000"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "marketPrice": "0.03162000"
+    },
+    {
+        "symbol": "IOSTBTC",
+        "marketPrice": "0.00000072"
+    },
+    {
+        "symbol": "IOSTBUSD",
+        "marketPrice": "0.03154000"
+    },
+    {
+        "symbol": "SCUSDT",
+        "marketPrice": "0.01118000"
+    },
+    {
+        "symbol": "SCBTC",
+        "marketPrice": "0.00000025"
+    },
+    {
+        "symbol": "SCBUSD",
+        "marketPrice": "0.01116000"
+    },
+    {
+        "symbol": "MITHUSDT",
+        "marketPrice": "0.03968000"
+    },
+    {
+        "symbol": "MITHBTC",
+        "marketPrice": "0.00000091"
+    },
+    {
+        "symbol": "WINUSDT",
+        "marketPrice": "0.00031970"
+    },
+    {
+        "symbol": "WINBNB",
+        "marketPrice": "0.00000076"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "marketPrice": "422.10000000"
+    },
+    {
+        "symbol": "BNBBUSD",
+        "marketPrice": "422.00000000"
+    },
+    {
+        "symbol": "BNBUSDC",
+        "marketPrice": "422.20000000"
+    },
+    {
+        "symbol": "BNBTUSD",
+        "marketPrice": "422.10000000"
+    },
+    {
+        "symbol": "WINBUSD",
+        "marketPrice": "0.00031970"
+    },
+    {
+        "symbol": "BNBDAI",
+        "marketPrice": "421.40000000"
+    },
+    {
+        "symbol": "WINUSDC",
+        "marketPrice": "0.00031890"
+    },
+    {
+        "symbol": "BNBUSDP",
+        "marketPrice": "421.29000000"
+    },
+    {
+        "symbol": "COSUSDT",
+        "marketPrice": "0.01707000"
+    },
+    {
+        "symbol": "COSBTC",
+        "marketPrice": "0.00000040"
+    },
+    {
+        "symbol": "COSBUSD",
+        "marketPrice": "0.01707000"
+    },
+    {
+        "symbol": "BUSDNGN",
+        "marketPrice": "462.64000000"
+    },
+    {
+        "symbol": "USDTNGN",
+        "marketPrice": "590.40000000"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "marketPrice": "1.00000000"
+    },
+    {
+        "symbol": "TRXBUSD",
+        "marketPrice": "0.06459000"
+    },
+    {
+        "symbol": "BUSDTRY",
+        "marketPrice": "14.88400000"
+    },
+    {
+        "symbol": "SOLBUSD",
+        "marketPrice": "116.05000000"
+    },
+    {
+        "symbol": "BUSDBIDR",
+        "marketPrice": "14384.00"
+    },
+    {
+        "symbol": "AUDBUSD",
+        "marketPrice": "0.75190000"
+    },
+    {
+        "symbol": "BUSDDAI",
+        "marketPrice": "1.00000000"
+    },
+    {
+        "symbol": "AVAXBUSD",
+        "marketPrice": "84.04000000"
+    },
+    {
+        "symbol": "USDCBUSD",
+        "marketPrice": "0.99990000"
+    },
+    {
+        "symbol": "TUSDBUSD",
+        "marketPrice": "0.99990000"
+    },
+    {
+        "symbol": "USDPBUSD",
+        "marketPrice": "1.00010000"
+    },
+    {
+        "symbol": "USTBUSD",
+        "marketPrice": "1.00010000"
+    },
+    {
+        "symbol": "XRPBUSD",
+        "marketPrice": "0.76650000"
+    },
+    {
+        "symbol": "LUNABUSD",
+        "marketPrice": "107.07000000"
+    },
+    {
+        "symbol": "NEARBUSD",
+        "marketPrice": "15.72700000"
+    },
+    {
+        "symbol": "GMTBUSD",
+        "marketPrice": "2.26811000"
+    },
+    {
+        "symbol": "MANABUSD",
+        "marketPrice": "2.34500000"
+    },
+    {
+        "symbol": "SANDBUSD",
+        "marketPrice": "3.00470000"
+    },
+    {
+        "symbol": "ETCBUSD",
+        "marketPrice": "39.45000000"
+    },
+    {
+        "symbol": "LRCBUSD",
+        "marketPrice": "0.98280000"
+    },
+    {
+        "symbol": "DOTBUSD",
+        "marketPrice": "19.93000000"
+    },
+    {
+        "symbol": "AXSBUSD",
+        "marketPrice": "55.52000000"
+    },
+    {
+        "symbol": "BUSDBRL",
+        "marketPrice": "4.74100000"
+    },
+    {
+        "symbol": "SHIBBUSD",
+        "marketPrice": "0.00002447"
+    },
+    {
+        "symbol": "FTMBUSD",
+        "marketPrice": "1.31840000"
+    },
+    {
+        "symbol": "FTTBUSD",
+        "marketPrice": "45.63000000"
+    },
+    {
+        "symbol": "GALABUSD",
+        "marketPrice": "0.22480000"
+    },
+    {
+        "symbol": "ENJBUSD",
+        "marketPrice": "1.54400000"
+    },
+    {
+        "symbol": "ALGOBUSD",
+        "marketPrice": "0.78470000"
+    },
+    {
+        "symbol": "PAXGBUSD",
+        "marketPrice": "1926.00000000"
+    },
+    {
+        "symbol": "ROSEBUSD",
+        "marketPrice": "0.27105000"
+    },
+    {
+        "symbol": "BTCSTBUSD",
+        "marketPrice": "17.04000000"
+    },
+    {
+        "symbol": "WAXPBUSD",
+        "marketPrice": "0.30250000"
+    },
+    {
+        "symbol": "LINKBUSD",
+        "marketPrice": "15.47000000"
+    },
+    {
+        "symbol": "VETBUSD",
+        "marketPrice": "0.06724000"
+    },
+    {
+        "symbol": "MATICBUSD",
+        "marketPrice": "1.48200000"
+    },
+    {
+        "symbol": "SXPBUSD",
+        "marketPrice": "1.35000000"
+    },
+    {
+        "symbol": "NMRBUSD",
+        "marketPrice": "29.07000000"
+    },
+    {
+        "symbol": "EGLDBUSD",
+        "marketPrice": "166.05000000"
+    },
+    {
+        "symbol": "ONEBUSD",
+        "marketPrice": "0.13752000"
+    },
+    {
+        "symbol": "EOSBUSD",
+        "marketPrice": "2.53000000"
+    },
+    {
+        "symbol": "ATOMBUSD",
+        "marketPrice": "27.26000000"
+    },
+    {
+        "symbol": "RUNEBUSD",
+        "marketPrice": "9.35000000"
+    },
+    {
+        "symbol": "DOGEBUSD",
+        "marketPrice": "0.14690000"
+    },
+    {
+        "symbol": "CHZBUSD",
+        "marketPrice": "0.23220000"
+    },
+    {
+        "symbol": "LINABUSD",
+        "marketPrice": "0.02349000"
+    },
+    {
+        "symbol": "COTIBUSD",
+        "marketPrice": "0.27360000"
+    },
+    {
+        "symbol": "DUSKBUSD",
+        "marketPrice": "0.39580000"
+    },
+    {
+        "symbol": "LTCBUSD",
+        "marketPrice": "114.50000000"
+    },
+    {
+        "symbol": "XLMBUSD",
+        "marketPrice": "0.20680000"
+    },
+    {
+        "symbol": "ADABUSD",
+        "marketPrice": "1.07800000"
+    },
+    {
+        "symbol": "BCHBUSD",
+        "marketPrice": "343.30000000"
+    },
+    {
+        "symbol": "HBARBUSD",
+        "marketPrice": "0.21030000"
+    },
+    {
+        "symbol": "GBPBUSD",
+        "marketPrice": "1.30700000"
+    },
+    {
+        "symbol": "DGBBUSD",
+        "marketPrice": "0.02859000"
+    },
+    {
+        "symbol": "SNXBUSD",
+        "marketPrice": "5.46900000"
+    },
+    {
+        "symbol": "SUSHIBUSD",
+        "marketPrice": "3.60300000"
+    },
+    {
+        "symbol": "UNIBUSD",
+        "marketPrice": "10.19000000"
+    },
+    {
+        "symbol": "AAVEBUSD",
+        "marketPrice": "195.00000000"
+    },
+    {
+        "symbol": "FILBUSD",
+        "marketPrice": "22.48000000"
+    },
+    {
+        "symbol": "AUDIOBUSD",
+        "marketPrice": "1.33200000"
+    },
+    {
+        "symbol": "STMXBUSD",
+        "marketPrice": "0.01922000"
+    },
+    {
+        "symbol": "HNTBUSD",
+        "marketPrice": "22.16000000"
+    },
+    {
+        "symbol": "MBOXBUSD",
+        "marketPrice": "2.97500000"
+    },
+    {
+        "symbol": "APEBUSD",
+        "marketPrice": "10.66860000"
+    },
+    {
+        "symbol": "EURBUSD",
+        "marketPrice": "1.09000000"
+    },
+    {
+        "symbol": "ICXBUSD",
+        "marketPrice": "0.84500000"
+    },
+    {
+        "symbol": "WAVESBUSD",
+        "marketPrice": "27.35000000"
+    },
+    {
+        "symbol": "XMRBUSD",
+        "marketPrice": "215.00000000"
+    },
+    {
+        "symbol": "OCEANBUSD",
+        "marketPrice": "0.53310000"
+    },
+    {
+        "symbol": "BUSDVAI",
+        "marketPrice": "1.08000000"
+    },
+    {
+        "symbol": "ICPBUSD",
+        "marketPrice": "19.12000000"
+    },
+    {
+        "symbol": "THETABUSD",
+        "marketPrice": "3.41100000"
+    },
+    {
+        "symbol": "IOTXBUSD",
+        "marketPrice": "0.08044000"
+    },
+    {
+        "symbol": "BUSDUAH",
+        "marketPrice": "32.14000000"
+    },
+    {
+        "symbol": "ADXBUSD",
+        "marketPrice": "0.42990000"
+    },
+    {
+        "symbol": "FARMBUSD",
+        "marketPrice": "101.90000000"
+    },
+    {
+        "symbol": "ALPACABUSD",
+        "marketPrice": "0.49500000"
+    },
+    {
+        "symbol": "DYDXBUSD",
+        "marketPrice": "5.59400000"
+    },
+    {
+        "symbol": "BSWBUSD",
+        "marketPrice": "1.18250000"
+    },
+    {
+        "symbol": "BUSDRUB",
+        "marketPrice": "85.66000000"
+    },
+    {
+        "symbol": "NEOBUSD",
+        "marketPrice": "23.10000000"
+    },
+    {
+        "symbol": "CRVBUSD",
+        "marketPrice": "2.58000000"
+    },
+    {
+        "symbol": "TWTBUSD",
+        "marketPrice": "1.15850000"
+    },
+    {
+        "symbol": "1INCHBUSD",
+        "marketPrice": "1.63500000"
+    },
+    {
+        "symbol": "HOTBUSD",
+        "marketPrice": "0.00573100"
+    },
+    {
+        "symbol": "RENBUSD",
+        "marketPrice": "0.42510000"
+    },
+    {
+        "symbol": "FLUXBUSD",
+        "marketPrice": "1.63300000"
+    },
+    {
+        "symbol": "AVABUSD",
+        "marketPrice": "1.66800000"
+    },
+    {
+        "symbol": "YFIBUSD",
+        "marketPrice": "22008.21000000"
+    },
+    {
+        "symbol": "SRMBUSD",
+        "marketPrice": "2.58200000"
+    },
+    {
+        "symbol": "CAKEBUSD",
+        "marketPrice": "8.47000000"
+    },
+    {
+        "symbol": "KP3RBUSD",
+        "marketPrice": "447.66000000"
+    },
+    {
+        "symbol": "OMBUSD",
+        "marketPrice": "0.08820000"
+    },
+    {
+        "symbol": "CFXBUSD",
+        "marketPrice": "0.17030000"
+    },
+    {
+        "symbol": "MIRBUSD",
+        "marketPrice": "1.68900000"
+    },
+    {
+        "symbol": "CHRBUSD",
+        "marketPrice": "0.51540000"
+    },
+    {
+        "symbol": "CELOBUSD",
+        "marketPrice": "3.82500000"
+    },
+    {
+        "symbol": "IMXBUSD",
+        "marketPrice": "2.01800000"
+    },
+    {
+        "symbol": "SANTOSBUSD",
+        "marketPrice": "5.67400000"
+    },
+    {
+        "symbol": "XTZBUSD",
+        "marketPrice": "3.32600000"
+    },
+    {
+        "symbol": "ZILBUSD",
+        "marketPrice": "0.13567000"
+    },
+    {
+        "symbol": "KNCBUSD",
+        "marketPrice": "3.09200000"
+    },
+    {
+        "symbol": "JSTBUSD",
+        "marketPrice": "0.06661000"
+    },
+    {
+        "symbol": "OMGBUSD",
+        "marketPrice": "4.85100000"
+    },
+    {
+        "symbol": "ALICEBUSD",
+        "marketPrice": "6.87000000"
+    },
+    {
+        "symbol": "ARBUSD",
+        "marketPrice": "33.17000000"
+    },
+    {
+        "symbol": "ILVBUSD",
+        "marketPrice": "591.80000000"
+    },
+    {
+        "symbol": "NULSBUSD",
+        "marketPrice": "0.46610000"
+    },
+    {
+        "symbol": "COMPBUSD",
+        "marketPrice": "138.30000000"
+    },
+    {
+        "symbol": "IOTABUSD",
+        "marketPrice": "0.74250000"
+    },
+    {
+        "symbol": "ANTBUSD",
+        "marketPrice": "4.89900000"
+    },
+    {
+        "symbol": "FRONTBUSD",
+        "marketPrice": "0.56550000"
+    },
+    {
+        "symbol": "FORTHBUSD",
+        "marketPrice": "7.26000000"
+    },
+    {
+        "symbol": "MTLBUSD",
+        "marketPrice": "1.72100000"
+    },
+    {
+        "symbol": "BNXBUSD",
+        "marketPrice": "96.70000000"
+    },
+    {
+        "symbol": "QIBUSD",
+        "marketPrice": "0.05660000"
+    },
+    {
+        "symbol": "HIGHBUSD",
+        "marketPrice": "5.51000000"
+    },
+    {
+        "symbol": "ASTRBUSD",
+        "marketPrice": "0.21780000"
+    },
+    {
+        "symbol": "BATBUSD",
+        "marketPrice": "0.76920000"
+    },
+    {
+        "symbol": "RSRBUSD",
+        "marketPrice": "0.01569000"
+    },
+    {
+        "symbol": "SKLBUSD",
+        "marketPrice": "0.21140000"
+    },
+    {
+        "symbol": "DEXEBUSD",
+        "marketPrice": "6.42000000"
+    },
+    {
+        "symbol": "LITBUSD",
+        "marketPrice": "1.58000000"
+    },
+    {
+        "symbol": "TLMBUSD",
+        "marketPrice": "0.11320000"
+    },
+    {
+        "symbol": "MASKBUSD",
+        "marketPrice": "4.66000000"
+    },
+    {
+        "symbol": "RAREBUSD",
+        "marketPrice": "0.59300000"
+    },
+    {
+        "symbol": "DARBUSD",
+        "marketPrice": "1.17341000"
+    },
+    {
+        "symbol": "AMPBUSD",
+        "marketPrice": "0.02534000"
+    },
+    {
+        "symbol": "PEOPLEBUSD",
+        "marketPrice": "0.05690000"
+    },
+    {
+        "symbol": "GLMRBUSD",
+        "marketPrice": "3.90710000"
+    },
+    {
+        "symbol": "CTSIBUSD",
+        "marketPrice": "0.39320000"
+    },
+    {
+        "symbol": "KSMBUSD",
+        "marketPrice": "167.70000000"
+    },
+    {
+        "symbol": "SYSBUSD",
+        "marketPrice": "0.59110000"
+    },
+    {
+        "symbol": "CKBBUSD",
+        "marketPrice": "0.01184000"
+    },
+    {
+        "symbol": "BAKEBUSD",
+        "marketPrice": "0.93400000"
+    },
+    {
+        "symbol": "BANDBUSD",
+        "marketPrice": "4.50500000"
+    },
+    {
+        "symbol": "ARPABUSD",
+        "marketPrice": "0.07850000"
+    },
+    {
+        "symbol": "HIVEBUSD",
+        "marketPrice": "0.95570000"
+    },
+    {
+        "symbol": "ZECBUSD",
+        "marketPrice": "163.50000000"
+    },
+    {
+        "symbol": "BELBUSD",
+        "marketPrice": "0.97000000"
+    },
+    {
+        "symbol": "INJBUSD",
+        "marketPrice": "5.98600000"
+    },
+    {
+        "symbol": "REEFBUSD",
+        "marketPrice": "0.01041000"
+    },
+    {
+        "symbol": "C98BUSD",
+        "marketPrice": "1.55500000"
+    },
+    {
+        "symbol": "XECBUSD",
+        "marketPrice": "0.00009864"
+    },
+    {
+        "symbol": "RAYBUSD",
+        "marketPrice": "3.03900000"
+    },
+    {
+        "symbol": "DENTBUSD",
+        "marketPrice": "0.00300300"
+    },
+    {
+        "symbol": "ACHBUSD",
+        "marketPrice": "0.03912000"
+    },
+    {
+        "symbol": "API3BUSD",
+        "marketPrice": "5.55200000"
+    },
+    {
+        "symbol": "VIDTBUSD",
+        "marketPrice": "0.48890000"
+    },
+    {
+        "symbol": "DODOBUSD",
+        "marketPrice": "0.42700000"
+    },
+    {
+        "symbol": "GRTBUSD",
+        "marketPrice": "0.42120000"
+    },
+    {
+        "symbol": "ATABUSD",
+        "marketPrice": "0.41700000"
+    },
+    {
+        "symbol": "KLAYBUSD",
+        "marketPrice": "1.08000000"
+    },
+    {
+        "symbol": "RADBUSD",
+        "marketPrice": "5.00900000"
+    },
+    {
+        "symbol": "PYRBUSD",
+        "marketPrice": "15.07000000"
+    },
+    {
+        "symbol": "CTXCBUSD",
+        "marketPrice": "0.28110000"
+    },
+    {
+        "symbol": "BNTBUSD",
+        "marketPrice": "2.53400000"
+    },
+    {
+        "symbol": "BALBUSD",
+        "marketPrice": "15.70000000"
+    },
+    {
+        "symbol": "IDEXBUSD",
+        "marketPrice": "0.16060000"
+    },
+    {
+        "symbol": "ALPHABUSD",
+        "marketPrice": "0.43360000"
+    },
+    {
+        "symbol": "MINABUSD",
+        "marketPrice": "3.08400000"
+    },
+    {
+        "symbol": "SUNBUSD",
+        "marketPrice": "0.01504000"
+    },
+    {
+        "symbol": "CHESSBUSD",
+        "marketPrice": "0.87900000"
+    },
+    {
+        "symbol": "SCRTBUSD",
+        "marketPrice": "5.67300000"
+    },
+    {
+        "symbol": "VOXELBUSD",
+        "marketPrice": "1.71150000"
+    },
+    {
+        "symbol": "ANCBUSD",
+        "marketPrice": "2.88900000"
+    },
+    {
+        "symbol": "WINGBUSD",
+        "marketPrice": "9.59000000"
+    },
+    {
+        "symbol": "CREAMBUSD",
+        "marketPrice": "45.50000000"
+    },
+    {
+        "symbol": "PERPBUSD",
+        "marketPrice": "4.63000000"
+    },
+    {
+        "symbol": "RAMPBUSD",
+        "marketPrice": "0.09760000"
+    },
+    {
+        "symbol": "SUPERBUSD",
+        "marketPrice": "0.71390000"
+    },
+    {
+        "symbol": "ZENBUSD",
+        "marketPrice": "42.11000000"
+    },
+    {
+        "symbol": "CLVBUSD",
+        "marketPrice": "0.40600000"
+    },
+    {
+        "symbol": "RNDRBUSD",
+        "marketPrice": "2.51600000"
+    },
+    {
+        "symbol": "SPELLBUSD",
+        "marketPrice": "0.00483000"
+    },
+    {
+        "symbol": "QTUMBUSD",
+        "marketPrice": "7.00900000"
+    },
+    {
+        "symbol": "TRBBUSD",
+        "marketPrice": "23.49000000"
+    },
+    {
+        "symbol": "PROMBUSD",
+        "marketPrice": "9.29000000"
+    },
+    {
+        "symbol": "SFPBUSD",
+        "marketPrice": "0.85610000"
+    },
+    {
+        "symbol": "TKOBUSD",
+        "marketPrice": "0.82600000"
+    },
+    {
+        "symbol": "BARBUSD",
+        "marketPrice": "8.94000000"
+    },
+    {
+        "symbol": "LPTBUSD",
+        "marketPrice": "24.42000000"
+    },
+    {
+        "symbol": "CELRBUSD",
+        "marketPrice": "0.05645000"
+    },
+    {
+        "symbol": "STXBUSD",
+        "marketPrice": "1.29000000"
+    },
+    {
+        "symbol": "BETABUSD",
+        "marketPrice": "0.44637000"
+    },
+    {
+        "symbol": "ENSBUSD",
+        "marketPrice": "16.61000000"
+    },
+    {
+        "symbol": "OOKIBUSD",
+        "marketPrice": "0.01410000"
+    },
+    {
+        "symbol": "MKRBUSD",
+        "marketPrice": "2118.00000000"
+    },
+    {
+        "symbol": "STRAXBUSD",
+        "marketPrice": "1.11300000"
+    },
+    {
+        "symbol": "FORBUSD",
+        "marketPrice": "0.04401000"
+    },
+    {
+        "symbol": "BURGERBUSD",
+        "marketPrice": "1.59000000"
+    },
+    {
+        "symbol": "FETBUSD",
+        "marketPrice": "0.45170000"
+    },
+    {
+        "symbol": "POWRBUSD",
+        "marketPrice": "0.53500000"
+    },
+    {
+        "symbol": "CVXBUSD",
+        "marketPrice": "33.96000000"
+    },
+    {
+        "symbol": "LOKABUSD",
+        "marketPrice": "3.36460000"
+    },
+    {
+        "symbol": "DNTBUSD",
+        "marketPrice": "0.10710000"
+    },
+    {
+        "symbol": "HEGICBUSD",
+        "marketPrice": "0.03190000"
+    },
+    {
+        "symbol": "KAVABUSD",
+        "marketPrice": "4.29600000"
+    },
+    {
+        "symbol": "LTOBUSD",
+        "marketPrice": "0.25260000"
+    },
+    {
+        "symbol": "BICOBUSD",
+        "marketPrice": "1.58700000"
+    },
+    {
+        "symbol": "UMABUSD",
+        "marketPrice": "6.90500000"
+    },
+    {
+        "symbol": "DASHBUSD",
+        "marketPrice": "116.70000000"
+    },
+    {
+        "symbol": "ONTBUSD",
+        "marketPrice": "0.56560000"
+    },
+    {
+        "symbol": "UNFIBUSD",
+        "marketPrice": "5.51500000"
+    },
+    {
+        "symbol": "DFBUSD",
+        "marketPrice": "0.08040000"
+    },
+    {
+        "symbol": "EPSBUSD",
+        "marketPrice": "0.19380000"
+    },
+    {
+        "symbol": "ANKRBUSD",
+        "marketPrice": "0.07877000"
+    },
+    {
+        "symbol": "RVNBUSD",
+        "marketPrice": "0.06061000"
+    },
+    {
+        "symbol": "GHSTBUSD",
+        "marketPrice": "2.04700000"
+    },
+    {
+        "symbol": "AUCTIONBUSD",
+        "marketPrice": "14.39000000"
+    },
+    {
+        "symbol": "FISBUSD",
+        "marketPrice": "0.71650000"
+    },
+    {
+        "symbol": "TROYBUSD",
+        "marketPrice": "0.00970000"
+    },
+    {
+        "symbol": "CTKBUSD",
+        "marketPrice": "1.28400000"
+    },
+    {
+        "symbol": "FXSBUSD",
+        "marketPrice": "30.27100000"
+    },
+    {
+        "symbol": "DEGOBUSD",
+        "marketPrice": "3.32000000"
+    },
+    {
+        "symbol": "QUICKBUSD",
+        "marketPrice": "226.90000000"
+    },
+    {
+        "symbol": "FIDABUSD",
+        "marketPrice": "1.69700000"
+    },
+    {
+        "symbol": "YFIIBUSD",
+        "marketPrice": "1990.00000000"
+    },
+    {
+        "symbol": "AERGOBUSD",
+        "marketPrice": "0.24570000"
+    },
+    {
+        "symbol": "HARDBUSD",
+        "marketPrice": "0.48820000"
+    },
+    {
+        "symbol": "PSGBUSD",
+        "marketPrice": "14.25000000"
+    },
+    {
+        "symbol": "FLOWBUSD",
+        "marketPrice": "6.53000000"
+    },
+    {
+        "symbol": "TRIBEBUSD",
+        "marketPrice": "0.55000000"
+    },
+    {
+        "symbol": "OGNBUSD",
+        "marketPrice": "0.48880000"
+    },
+    {
+        "symbol": "AGLDBUSD",
+        "marketPrice": "1.25600000"
+    },
+    {
+        "symbol": "CITYBUSD",
+        "marketPrice": "15.35000000"
+    },
+    {
+        "symbol": "WRXBUSD",
+        "marketPrice": "0.65300000"
+    },
+    {
+        "symbol": "ZRXBUSD",
+        "marketPrice": "0.71310000"
+    },
+    {
+        "symbol": "JUVBUSD",
+        "marketPrice": "6.18000000"
+    },
+    {
+        "symbol": "LAZIOBUSD",
+        "marketPrice": "4.37840000"
+    },
+    {
+        "symbol": "TBUSD",
+        "marketPrice": "0.12450000"
+    },
+    {
+        "symbol": "PONDBUSD",
+        "marketPrice": "0.03542000"
+    },
+    {
+        "symbol": "YGGBUSD",
+        "marketPrice": "2.55800000"
+    },
+    {
+        "symbol": "JASMYBUSD",
+        "marketPrice": "0.03060000"
+    },
+    {
+        "symbol": "JOEBUSD",
+        "marketPrice": "1.25200000"
+    },
+    {
+        "symbol": "ACABUSD",
+        "marketPrice": "1.53000000"
+    },
+    {
+        "symbol": "XNOBUSD",
+        "marketPrice": "2.51500000"
+    },
+    {
+        "symbol": "BIFIBUSD",
+        "marketPrice": "1426.40000000"
+    },
+    {
+        "symbol": "MLNBUSD",
+        "marketPrice": "57.30000000"
+    },
+    {
+        "symbol": "POLYBUSD",
+        "marketPrice": "0.42830000"
+    },
+    {
+        "symbol": "KDABUSD",
+        "marketPrice": "6.61300000"
+    },
+    {
+        "symbol": "CVPBUSD",
+        "marketPrice": "0.82600000"
+    },
+    {
+        "symbol": "MDXBUSD",
+        "marketPrice": "0.25500000"
+    },
+    {
+        "symbol": "DOCKBUSD",
+        "marketPrice": "0.04371000"
+    },
+    {
+        "symbol": "OXTBUSD",
+        "marketPrice": "0.26510000"
+    },
+    {
+        "symbol": "MCBUSD",
+        "marketPrice": "2.43000000"
+    },
+    {
+        "symbol": "MDTBUSD",
+        "marketPrice": "0.05530000"
+    },
+    {
+        "symbol": "DATABUSD",
+        "marketPrice": "0.08042000"
+    },
+    {
+        "symbol": "DIABUSD",
+        "marketPrice": "1.01300000"
+    },
+    {
+        "symbol": "TOMOBUSD",
+        "marketPrice": "1.31000000"
+    },
+    {
+        "symbol": "BTGBUSD",
+        "marketPrice": "37.80000000"
+    },
+    {
+        "symbol": "QNTBUSD",
+        "marketPrice": "125.80000000"
+    },
+    {
+        "symbol": "BADGERBUSD",
+        "marketPrice": "10.45000000"
+    },
+    {
+        "symbol": "AUTOBUSD",
+        "marketPrice": "436.20000000"
+    },
+    {
+        "symbol": "GTCBUSD",
+        "marketPrice": "6.55900000"
+    },
+    {
+        "symbol": "ALPINEBUSD",
+        "marketPrice": "6.61960000"
+    },
+    {
+        "symbol": "ERNBUSD",
+        "marketPrice": "5.50300000"
+    },
+    {
+        "symbol": "LSKBUSD",
+        "marketPrice": "2.21800000"
+    },
+    {
+        "symbol": "POLSBUSD",
+        "marketPrice": "1.58200000"
+    },
+    {
+        "symbol": "ORNBUSD",
+        "marketPrice": "3.48300000"
+    },
+    {
+        "symbol": "TFUELBUSD",
+        "marketPrice": "0.18470000"
+    },
+    {
+        "symbol": "BONDBUSD",
+        "marketPrice": "9.41000000"
+    },
+    {
+        "symbol": "STORJBUSD",
+        "marketPrice": "1.12850000"
+    },
+    {
+        "symbol": "UTKBUSD",
+        "marketPrice": "0.24620000"
+    },
+    {
+        "symbol": "COCOSBUSD",
+        "marketPrice": "1.39730000"
+    },
+    {
+        "symbol": "IQBUSD",
+        "marketPrice": "0.01235000"
+    },
+    {
+        "symbol": "MOVRBUSD",
+        "marketPrice": "67.30000000"
+    },
+    {
+        "symbol": "ALCXBUSD",
+        "marketPrice": "105.30000000"
+    },
+    {
+        "symbol": "TVKBUSD",
+        "marketPrice": "0.12360000"
+    },
+    {
+        "symbol": "SLPBUSD",
+        "marketPrice": "0.02150000"
+    },
+    {
+        "symbol": "WOOBUSD",
+        "marketPrice": "0.50470000"
+    },
+    {
+        "symbol": "TORNBUSD",
+        "marketPrice": "43.11000000"
+    },
+    {
+        "symbol": "PLABUSD",
+        "marketPrice": "0.95400000"
+    },
+    {
+        "symbol": "ACMBUSD",
+        "marketPrice": "6.85000000"
+    },
+    {
+        "symbol": "FIOBUSD",
+        "marketPrice": "0.09760000"
+    },
+    {
+        "symbol": "XVSBUSD",
+        "marketPrice": "11.75000000"
+    },
+    {
+        "symbol": "ATMBUSD",
+        "marketPrice": "6.29000000"
+    },
+    {
+        "symbol": "REQBUSD",
+        "marketPrice": "0.26290000"
+    },
+    {
+        "symbol": "STPTBUSD",
+        "marketPrice": "0.09541000"
+    },
+    {
+        "symbol": "PHABUSD",
+        "marketPrice": "0.28320000"
+    },
+    {
+        "symbol": "UFTBUSD",
+        "marketPrice": "0.39700000"
+    },
+    {
+        "symbol": "TCTUSDT",
+        "marketPrice": "0.02191000"
+    },
+    {
+        "symbol": "TCTBTC",
+        "marketPrice": "0.00000050"
+    },
+    {
+        "symbol": "STMXBTC",
+        "marketPrice": "0.00000044"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "marketPrice": "0.01923000"
+    },
+    {
+        "symbol": "DGBBTC",
+        "marketPrice": "0.00000066"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "marketPrice": "0.02861000"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "marketPrice": "0.01570000"
+    },
+    {
+        "symbol": "RSRBTC",
+        "marketPrice": "0.00000036"
+    },
+    {
+        "symbol": "ETHNGN",
+        "marketPrice": "805670.00000000"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "marketPrice": "11.73000000"
+    },
+    {
+        "symbol": "XVSBNB",
+        "marketPrice": "0.02779000"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "marketPrice": "0.01316000"
+    },
+    {
+        "symbol": "AKROBTC",
+        "marketPrice": "0.00000031"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "marketPrice": "0.01041000"
+    },
+    {
+        "symbol": "REEFBTC",
+        "marketPrice": "0.00000024"
+    },
+    {
+        "symbol": "CKBBTC",
+        "marketPrice": "0.00000027"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "marketPrice": "0.01184000"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "marketPrice": "0.03530000"
+    },
+    {
+        "symbol": "PONDBTC",
+        "marketPrice": "0.00000080"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "marketPrice": "0.02341000"
+    },
+    {
+        "symbol": "LINABTC",
+        "marketPrice": "0.00000054"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "marketPrice": "0.22260000"
+    },
+    {
+        "symbol": "TRURUB",
+        "marketPrice": "19.04000000"
+    },
+    {
+        "symbol": "USDTRUB",
+        "marketPrice": "85.56000000"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "marketPrice": "55.42000000"
+    },
+    {
+        "symbol": "AXSBIDR",
+        "marketPrice": "791862.00"
+    },
+    {
+        "symbol": "USDTBIDR",
+        "marketPrice": "14388.00"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "marketPrice": "0.87900000"
+    },
+    {
+        "symbol": "CHESSBNB",
+        "marketPrice": "0.00208300"
+    },
+    {
+        "symbol": "BNXBNB",
+        "marketPrice": "0.22830000"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "marketPrice": "96.60000000"
+    },
+    {
+        "symbol": "QIUSDT",
+        "marketPrice": "0.05660000"
+    },
+    {
+        "symbol": "QIBNB",
+        "marketPrice": "0.00013390"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "marketPrice": "0.03050000"
+    },
+    {
+        "symbol": "JASMYBTC",
+        "marketPrice": "0.00000070"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "marketPrice": "0.02534000"
+    },
+    {
+        "symbol": "AMPBTC",
+        "marketPrice": "0.00000057"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "marketPrice": "23.03000000"
+    },
+    {
+        "symbol": "NEORUB",
+        "marketPrice": "1962.00000000"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "marketPrice": "2.34250000"
+    },
+    {
+        "symbol": "MANABIDR",
+        "marketPrice": "33682.00"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "marketPrice": "19.13000000"
+    },
+    {
+        "symbol": "ICPETH",
+        "marketPrice": "0.00596200"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "marketPrice": "1.71000000"
+    },
+    {
+        "symbol": "VOXELETH",
+        "marketPrice": "0.00053190"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "marketPrice": "0.03916000"
+    },
+    {
+        "symbol": "ACHBTC",
+        "marketPrice": "0.00000090"
+    },
+    {
+        "symbol": "FORUSDT",
+        "marketPrice": "0.04404000"
+    },
+    {
+        "symbol": "FORBNB",
+        "marketPrice": "0.00010400"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "marketPrice": "0.00483000"
+    },
+    {
+        "symbol": "SPELLBNB",
+        "marketPrice": "0.00001142"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "marketPrice": "167.50000000"
+    },
+    {
+        "symbol": "KSMETH",
+        "marketPrice": "0.05246000"
+    },
+    {
+        "symbol": "AVAXGBP",
+        "marketPrice": "64.28000000"
+    },
+    {
+        "symbol": "GBPUSDT",
+        "marketPrice": "1.30700000"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "marketPrice": "84.03000000"
+    }
+]
